@@ -30,7 +30,7 @@ namespace ChristmasWithTypes
 
             Console.WriteLine($"\n We like to call Santa, {xmas.Santa}");
 
-            Console.ReadLine();
+            Console.ReadLine(); //Added this as Visual Studio was automatically closing as no input was required.
         }
     }
 }
